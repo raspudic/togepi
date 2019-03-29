@@ -1,5 +1,4 @@
-# INDIVIDUELL REFLEKTION :pencil2:
-#### Sofija Zdjelar
+# INDIVIDUELL REFLEKTION :pencil2: SOFIJA ZDJELAR
 
 ## WHAT DO I WANT TO LEARN OR UNDERSTAND BETTER?
 Jag ser mycket fram emot att lära mig SCRUM-metodik samt det agila, iterativa och inkrementella arbetssättet, detta både i form av teori och praktik. Det är ett område inom IT som jag har varit nyfiken på länge! Utöver detta vill jag bättre förstå hur stora programmeringsprojekt genomförs i grupp, med fokus på samarbete, projektledning, organisering och reflektion. Jag känner nämligen inte att jag har fått möjlighet att lära mig det i tidigare kurser under utbildningen. Slutligen vill jag bli bättre på att använda mjukvarukoncept – t.ex. olika ramverk och APIer – och git. 
