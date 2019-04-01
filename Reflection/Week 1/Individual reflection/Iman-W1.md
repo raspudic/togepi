@@ -1,4 +1,4 @@
-# Iman Radjavi - Week 1
+# Iman Radjavi :thought_balloon: Week 1
 
 ## What do I want to learn or understand better?
 Since I was registered to the course on Friday (March 29), I haven’t had the time to work with my team yet. This is something that will change from Week 2, so the plan is to have a discussion with my team so that I can catch up on what has been done so far. 
