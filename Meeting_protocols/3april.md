@@ -45,9 +45,11 @@
 * Möten 
 	* Måndagar på handledningstillfället 
 	* Börjar med ett stand-up och prata igenom vad vi gör för tillfället
+	* Lunchmöten fredagar lunch - stämma av arbetet under veckan
 * Diskussioner kring hur projektet kommer att brytas ner 
 	* Vi i gruppen ska skriva User stories 
 	
 ## Sammanfattning 
 * Namn på tjänsten: Expresso
 * Veckovisa möten är på måndag eftermiddag, på handledningstillfällena 
+* Sikta på lunchmöten fredagar för att stämma av veckan som gått
