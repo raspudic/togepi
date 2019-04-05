@@ -17,7 +17,7 @@
 
 ## Arbetsutformning 
 ### Rutiner:
-* Veckomöten varje …… mellan …-..
+* Veckomöten varje måndag och fredag mellan 13.15-17.00 respektive 11.45-13.15
 * Arbetsbelastningen beräknas vara maximalt 20h per vecka + extra vid behov!
 * Varje söndag klockan 23:59 är det deadline för individuella och gruppreflektioner 
 
