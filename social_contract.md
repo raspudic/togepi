@@ -19,6 +19,7 @@
 ### Rutiner:
 * Veckomöten varje …… mellan …-..
 * Arbetsbelastningen beräknas vara maximalt 20h per vecka + extra vid behov!
+* Varje söndag klockan 23:59 är det deadline för individuella och gruppreflektioner 
 
 ## Möten 
 * Om man inte kan närvara vid möten förväntas man att kompensera med annan tid 
