@@ -13,5 +13,5 @@ Denna veckan tycker jag som sagt inte riktigt att vi kommit igång med ett struk
 Jag har försökt hålla mig aktiv och ta på mig de saker som jag är bekväm med och som behövs ur gruppens synvinkel. Jag bidrog genom att göra klart BMC, idé posten på Canvas, pitchen på föreläsningen samt att jag lovade att se till så att Emil, som varit bortrest, blir uppdaterad om saker som skett.  
 
 ## THOUGHTS ON THE COMING WEEK
-Jag ser spänningsfullt fram emot nästa vecka, vi har en bra grupp dynamik och en rolig idé att jobba på. Det är nästa vecka "allt händer", det är då vi kommer dra igång SCRUM på riktigt, börja koda appen och ta kontakt med eventuella stake-holders på CAMPUS.
+Jag ser spänningsfullt fram emot nästa vecka, vi har en bra gruppdynamik och en rolig idé att jobba på. Det är nästa vecka "allt händer", det är då vi kommer dra igång SCRUM på riktigt, börja koda appen och ta kontakt med eventuella stake-holders på campus.
 
