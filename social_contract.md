@@ -1,9 +1,9 @@
 # Gruppkontrakt Software project course 
 
 ## Kontakt:
-* Lucas Fallqvist: 	0708 36 14 94 
+* Lucas Fallqvist: 	0708 36 14 94
 * Robert Zetterlund:	0730 56 26 76
-* Sofija Zdjelar		0730 35 30 03 
+* Sofija Zdjelar	0730 35 30 03
 * Mateo Raspudic:	0765 63 67 06
 * Klara Pohjanen	0702 10 05 11
 * Markus Pettersson:	0725 20 71 18
@@ -28,6 +28,7 @@
 * Ordförande och sekreterare väljs inför varje möte och kommer i turordning
 	* Sekreterarens roll - Punkta upp det som diskuterats
 	* Ordförandens roll - Leda mötet och ta det framåt
+* Markus har veto kring vem som har "talarpinnen" och när man har talarpinnen får man tala till punkt. Om Markus är borta så utser man en
 
 ## Värderingar
 * Alla i gruppen har samma rättigheter och skyldigheter
@@ -36,7 +37,6 @@
 
 ## Mål
 * Alla i gruppen vill prestera bra på kursen samt ta med sig lärdomar till framtiden
-
 
 
 ## Kodstandard
