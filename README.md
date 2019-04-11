@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Git-Tutorial
 
 ## Innehåll
@@ -85,3 +86,11 @@ git fetch origin | git reset --hard origin/master
 * [Dokumentation](https://git-scm.com/docs)
 * [Atomic Commits (viktigt!)](https://www.freshconsulting.com/atomic-commits/)
 * [git Cheat Sheet](https://www.git-tower.com/blog/git-cheat-sheet/)
+=======
+# DAT256 - Togepi
+
+## Code
+Our codebase is hosted in another repository
+
+ https://github.com/DorisIT/togepi_code
+>>>>>>> a69dd0c283ad16bac76ecc30dd117a654a37d85d
