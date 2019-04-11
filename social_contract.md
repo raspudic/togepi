@@ -61,6 +61,7 @@
 
 ## Arbetssätt
 * Vid felbedömning av velocity eller effort bör det lyftas i gruppen så tidigt som möjligt för att gemensamt se över hur personen kan stöttas. 
+* Om man önskar använda ett särskilt bibliotek, så ska man först starta en diskussion i Slack. Därefter sker omröstning. Ett "Nej" väger tyngre än ett "Ja"
 
 * Trello för tasks
 * Kanban över arbetet
