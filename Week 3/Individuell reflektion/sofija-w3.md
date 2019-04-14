@@ -13,4 +13,4 @@ Den här veckan har jag bidragit till gruppens användning av Scrum genom att me
 Jag har lagt tid på att lära mig de tekniker nödvändiga för att kunna bidra till utveckling av applikationen framöver. Jag har varit aktiv under möten och i kommunikationskanaler. Slutligen har jag slutfört gruppreflektionen och gjort schema över produktägare och scrurm master (se ovan). 
 
 ## THOUGHTS ON THE COMING WEEK
-
+Jag ser fram emot att börja utveckla appen, men också en aning nervös då jag inte har erfarenhet av att programmera IOS appar. 
