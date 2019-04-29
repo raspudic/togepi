@@ -31,10 +31,12 @@
 * Om man inte kan närvara vid möten förväntas man att kompensera med annan tid 
 * Sen ankomst:
 	* Kommer man mer än 10 minuter sen får man en fika-prick (ta med fika till nästa möte) 
-* Ordförande och sekreterare väljs inför varje möte och kommer i turordning
-	* Sekreterarens roll - Punkta upp det som diskuterats
+* Veckans SCRUM-master är ordförare för mötet 
 	* Ordförandens roll - Leda mötet och ta det framåt
-* Markus har veto kring vem som har "talarpinnen" och när man har talarpinnen får man tala till punkt. Om Markus är borta så utser man en
+* Sekreterare väljs inför varje möte och kommer i turordning
+	* Sekreterarens roll - Punkta upp det som diskuterats
+	
+
 
 ## Värderingar
 * Alla i gruppen har samma rättigheter och skyldigheter
