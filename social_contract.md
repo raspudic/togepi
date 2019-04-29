@@ -15,7 +15,13 @@
 
 
 
-## Arbetsutformning 
+## Arbetsutformning
+
+### Trello: 
+* "In analysis" är ett temporärt fack, som en pull-request där en US endast ligger för att antingen skickas till "In progress" eller "Test"
+* "In progress" 
+* "Test" betyder att man kollar på DoD, detta görs under sprint-review och när DoD godkänns så är user storyn klar 
+
 ### Rutiner:
 * Veckomöten varje måndag och fredag mellan 13.15-17.00 respektive 11.45-13.15
 * Arbetsbelastningen beräknas vara maximalt 20h per vecka + extra vid behov!
