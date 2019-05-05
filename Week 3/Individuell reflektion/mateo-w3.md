@@ -1,4 +1,4 @@
-# MATEO - INDIVIDUAL REFLECTION - WEEK :hash: 2
+# MATEO - INDIVIDUAL REFLECTION - WEEK :hash: 3
 
 ## What do I want to learn or understand better?
 I am looking forward to getting started with React Native. 
