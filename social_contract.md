@@ -29,12 +29,14 @@
 
 ## Möten 
 * Om man inte kan närvara vid möten förväntas man att kompensera med annan tid 
+* Om man behöver gå tidigt från ett möte är det viktigt att man säger det till gruppen, så att vi inte tappar någon mitt i en diskussion eller saknar någon vid viktiga beslut.
 * Sen ankomst:
 	* Kommer man mer än 10 minuter sen får man en fika-prick (ta med fika till nästa möte) 
 * Veckans SCRUM-master är ordförare för mötet 
 	* Ordförandens roll - Leda mötet och ta det framåt
 * Sekreterare väljs inför varje möte och kommer i turordning
 	* Sekreterarens roll - Punkta upp det som diskuterats
+
 	
 
 
