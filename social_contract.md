@@ -25,7 +25,7 @@
 ### Rutiner:
 * Veckomöten varje måndag och fredag mellan 13.15-17.00 respektive 11.45-13.15
 * Arbetsbelastningen beräknas vara maximalt 20h per vecka + extra vid behov!
-* Varje söndag klockan 23:59 är det deadline för individuella och gruppreflektioner 
+* Varje söndag klockan 23:59 är det deadline för individuella och gruppreflektioner
 
 ## Möten 
 * Om man inte kan närvara vid möten förväntas man att kompensera med annan tid 
@@ -65,7 +65,7 @@
 		* Veckans produktägare ska ha approvat en pull request innan den kan mergeas in till dev.
 
 ## Formatering
-* Se till att använda konsekvent indentering
+* Se till att använda konsekvent indentering, vi använder oss av Prettier (https://prettier.io/)
 * Namngivning
 	* Ge variabler och funktioner beskrivande namn
 * Tester
