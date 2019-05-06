@@ -60,7 +60,9 @@
 		* När ett item tas från PBL bör det få en separat branch med rätt namn.
 
 	* Continuous integration
-		* https://travis-ci.org/
+		* https://travis-ci.org/	
+	* Pull Requests
+		* En Pull Request ska skapas när man väljer en user story, detta ger mer transparens om vem som jobbar med vad och en inblick i vad som ska reviewas.
 
 ## Formatering
 * Se till att använda konsekvent indentering
