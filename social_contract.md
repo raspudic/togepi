@@ -58,7 +58,6 @@
 		* Det ska finnas en master branch som alltid går att leverera
 		* Det ska finnas en develop branch som man utvecklar mot
 		* När ett item tas från PBL bör det få en separat branch med rätt namn.
-
 	* Continuous integration
 		* https://travis-ci.org/	
 	* Pull Requests
@@ -81,3 +80,4 @@
 
 ## Kommunikation
 * Slack
+	* I Slack använder vi DailyBot som ett substitut för 'daily-standup'-meeting och varje gruppmedlem har som skyldighet att svara på den Slack minst en gång i veckan.
