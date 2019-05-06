@@ -64,6 +64,11 @@
 		* En Pull Request ska skapas när man väljer en user story, detta ger mer transparens om vem som jobbar med vad och en inblick i vad som ska reviewas.
 		* Veckans produktägare ska ha approvat en pull request innan den kan mergeas in till dev.
 
+## Code Reviews
+* Vem reviewar kod?
+	* Det får inte vara någon som jobbar på samma user-story.
+	* Code Reviewen måste kolla på acceptance criteria och DoDn.
+
 ## Formatering
 * Se till att använda konsekvent indentering, vi använder oss av Prettier (https://prettier.io/)
 * Namngivning
