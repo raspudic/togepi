@@ -4,7 +4,7 @@
 Jag vill bli bättre på att sätta effort på user stories. För tillfället vet jag inte riktigt hur jag ska applicera det, utan under sprint planning går jag mest på känsla. På tal om sprint planning vill jag lära mig tekniker för att effektivisera planeringen: Vad är det mest effektiva sättet att gå igenom alla user stories? Går man igenom alla user stories som grupp? Slutligen vill jag bättre förstå hur man skiljer user stories från varandra. Till exempel har vi denna vecka arbetat med user stories som berör *Jag vill kunna klicka på ett kafé" och *Jag vill kunna beställa kaffe*. Dessa följer på varandra i appen, men vilken user story ansvarar för det som kommer mellan, det vill säga skärmen som kommer upp efter klick? Sådant vill jag bli bättre på att avgöra! 
 
 ## HOW CAN I HELP SOMEONE ELSE, OR THE ENTIRE TEAM, TO LEARN SOMETHING NEW? 
-Jag har nog inte lärt gruppen någonting denna veckan (?).    
+Jag har nog inte lärt gruppen någonting denna veckan. Detta beror mest på att det har varit lov och självstudier, och gruppen har inte haft möjlighet att träffas och kommunicera lärdomar.     
 
 ## WHAT IS MY CONTRIBUTION TOWARDS THE TEAM’S USE OF SCRUM? 
 Den här veckan har jag bidragit till gruppens användning av Scrum genom att installera en *daily bot* i Slack: Den frågar samtliga gruppmedlemmar vad de har gjort under dagen och sammanställer allas svar i en separat. Det ersätter alltså daily meetings då vi inte har möjlighet att träffas på daglig basis, tyvärr. 
