@@ -1,4 +1,4 @@
-# MATEO - INDIVIDUAL REFLECTION - WEEK :hash: 8
+# MATEO - INDIVIDUAL REFLECTION - WEEK :hash: 9
 
 ## What do I want to learn or understand better?
 I veckan har mycket tid lagts på att göra klart appen så att den kan presenteras. 
