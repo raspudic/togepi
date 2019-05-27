@@ -51,18 +51,18 @@
 ## Kodstandard
 
 - Git/Versionshantering
-  _ Commitmeddelanden måste:
-  _ Beskriva vad du commitar
+  - Commitmeddelanden måste:
+  - Beskriva vad du commitar
   _ Comitta ej “sämre” kod (broken, halvfärdig)
-  _ Branchhantering
+- Branchhantering
   _ Det ska finnas en master branch som alltid går att leverera
   _ Det ska finnas en develop branch som man utvecklar mot
   _ När ett item tas från PBL bör det få en separat branch med rätt namn.
-  _ Continuous integration
+- Continuous integration
   _ https://travis-ci.org/
-  _ Pull Requests
-  _ En Pull Request ska skapas när man väljer en user story, detta ger mer transparens om vem som jobbar med vad och en inblick i vad som ska reviewas.
-  _ Veckans produktägare ska ha approvat en pull request innan den kan mergeas in till dev.
+- Pull Requests
+  - En Pull Request ska skapas när man väljer en user story, detta ger mer transparens om vem som jobbar med vad och en inblick i vad som ska reviewas.
+  - Veckans produktägare ska ha approvat en pull request innan den kan mergeas in till dev.
 
 ## Code Reviews
 
