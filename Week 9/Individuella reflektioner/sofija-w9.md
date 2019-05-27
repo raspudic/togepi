@@ -7,7 +7,7 @@ Nu i slutspurten funderar jag (och resten av gruppen) mycket kring den färdiga 
 Denna sprinten har jag börjat skriva på den slutgiltiga reflektionen och jag hoppas kunna bidra med analys kring vårt arbete och det värde vi har levererat under sprintarna. Dessa analyser kan förhoppningsvis vara av nytta för gruppmedlemmarna i framtida projekt.  
 
 ## WHAT IS MY CONTRIBUTION TOWARDS THE TEAM’S USE OF SCRUM? 
-Den här veckan har jag bidragit till gruppens användning av scrum genom att medverka vid sprint planning, sprint review och sprint retrospective. Jag har också bidragit med analys kring vår användning av Scrum i den slutgiltiga reflektionen vilket förhoppningsvis kommer att vara av nytta för gruppmedlemmarna i framtida projekt. Vidare har jag tillsammans med Klara slutfört den user story vi valde. 
+Den här veckan har jag bidragit till gruppens användning av scrum genom att medverka vid sprint planning, sprint review och sprint retrospective. Jag har också bidragit med analys kring vår användning av Scrum i den slutgiltiga reflektionen vilket förhoppningsvis kommer att vara av nytta för gruppmedlemmarna i framtida projekt. Vidare har jag tillsammans med Klara slutfört den user story vi valde. Jag har efter detta projekt upptäckt att parprogrammering är någonting som jag uppskattar eftersom jag tycker om att lösa problem muntligt och genom kommunikation med en annan person. 
 
 ## WHAT IS MY CONTRIBUTION TOWARDS THE TEAM’S DELIVERIES? 
 Den här veckan har jag och Klara slutfört den user story som behandlade “Tack för ditt köp”-rutan. Vi utvecklade en modal och kopplade navigationen mellan denna och QR-koden. Jag och Klara började därutöver skriva på den slutgiltiga reflektionen. 
