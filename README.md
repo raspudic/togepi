@@ -8,7 +8,7 @@ Målet med kursen var att skapa en applikation av något slag som innefattade tv
 
 Vi valde att skapa en app för den mobila människan - Expresso. Genom att göra det lättare att köpa kaffe via en app som endast tillåter att du lånar eller tar med en egen mugg, vill vi minska användningen av engångsartiklar på caféerna runtom Chalmers campus.
 
-Kodrepot för applikationen som utvecklats hittas på följande länk: _lägg in länk_
+Kodrepot för applikationen som utvecklats hittas på följande länk: https://github.com/MarkusPettersson98/Expresso
 
 ## Medlemmar
 
