@@ -2,7 +2,7 @@
 
 ## TDA256 - Software Engineering Project
 
-Detta är dokument-repot för grupp Togepi i kursen Software Engineering Project på Chalmers Tekniska Högskola, vårterminen 2019.
+Detta är dokument-repot för grupp Togepi i kursen Software Engineering Project på Chalmers Tekniska Högskola, vårterminen 2019. [Slutrapport](https://github.com/raspudic/togepi/blob/master/Togepi.pdf) 
 
 Målet med kursen var att skapa en applikation av något slag som innefattade två aspekter: Mobility & Sustainability.
 
